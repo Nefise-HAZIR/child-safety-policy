@@ -5,9 +5,6 @@ Our application is committed to creating a safe and secure environment for all u
 ## 1. Content Moderation
 All user-generated content is monitored and moderated. Inappropriate or abusive behavior is strictly prohibited and subject to immediate removal and ban.
 
-## 2. Reporting & Blocking
-Users can report or block other users who display harmful or suspicious behavior. Reports are reviewed quickly by our team.
-
 ## 3. No Predatory Behavior
 We have strict policies against predatory behavior, grooming, or any form of sexual exploitation of minors. Such activity will result in a ban and be reported to the relevant authorities.
 
